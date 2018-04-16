@@ -64,7 +64,8 @@
             "target": [
                 "tar.gz",
                 "deb",
-                "rpm"
+                "rpm",
+                "snap"
             ]
         },
         "win": {
